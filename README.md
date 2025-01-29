@@ -7,3 +7,5 @@ This image shows a generation with 200 rooms and all the previous generation att
 
 This image shows a generation with 200 rooms that includes vertical generation. image
 ![image](https://github.com/user-attachments/assets/3a229ce6-5459-4e8e-8300-4b7d007cdb96)
+
+![NodeGenerationGIF](https://github.com/user-attachments/assets/9cbd8f30-7617-4293-8611-a7e88dcd6027)
